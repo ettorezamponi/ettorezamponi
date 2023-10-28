@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Microservices and Dockerization**
 
-- 👨‍💻 All of my projects are available at [github.io](https://ettorezamponi.github.io)
+- 👨‍💻 My portfolio is available at [github.io](https://ettorezamponi.github.io)
 
 - 📫 How to reach me **zamponi.ettore@gmail.com**
 
