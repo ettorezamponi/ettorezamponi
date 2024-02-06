@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ettorezamponi&label=Profile%20views&color=0e75b6&style=flat" alt="ettorezamponi" /> </p>
 
-- 🔭 I’m currently working on [RAMSES-Self Adaptive System](https://github.com/ramses-sas/ramses-sefa-SAS)
+- 🔭 I’m currently working on [RAMSES-Self Adaptive System](https://github.com/ettorezamponi/RAMSES-Reusability)
 
 - 🌱 I’m currently learning **Microservices and Dockerization**
 
